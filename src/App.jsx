@@ -14,7 +14,7 @@ const App = () => {
                     <li href="#">location</li>
                     <li href="#">about</li>
                     <li href="#">contact</li>
-                    <li href="#">store</li>
+                    <li href="#">stores</li>
 
                 </ul>
             </div>
